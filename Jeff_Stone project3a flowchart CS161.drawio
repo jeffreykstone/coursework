@@ -1,0 +1,98 @@
+<mxfile host="www.draw.io" modified="2020-01-17T22:19:38.936Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="89syWUml_77oIzR-Vxvy" version="12.5.5" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="522" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
+        <mxCell id="zFGTWXLyDL38vy-QKdds-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFGTWXLyDL38vy-QKdds-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="80" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFGTWXLyDL38vy-QKdds-0" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FFE6CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zFGTWXLyDL38vy-QKdds-2" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFE6CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="1410" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.493;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zFGTWXLyDL38vy-QKdds-8" target="YAJCDJA3JRHrWHHWti8Y-0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="zFGTWXLyDL38vy-QKdds-8" value="&lt;span&gt;&amp;nbsp;Ask user&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#6a8759&quot; face=&quot;Menlo&quot;&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43)&quot;&gt;&quot;How many integers&lt;br&gt;&amp;nbsp;would you like to enter?&quot;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;Declare num as the variable &lt;/span&gt;&lt;span&gt;initialized by the&amp;nbsp;&lt;/span&gt;&lt;span&gt;integer entered&lt;br&gt;(input())&amp;nbsp;by user&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#B266FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="80" width="200" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-0" target="YAJCDJA3JRHrWHHWti8Y-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-0" value="&lt;br&gt;User enters (inputs()) integer" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#6666FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="200" width="150" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-3" target="YAJCDJA3JRHrWHHWti8Y-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-3" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Ask user to&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap ; font-family: &amp;#34;menlo&amp;#34; ; color: rgb(204 , 120 , 50)&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap ; color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; background-color: rgb(43 , 43 , 43)&quot;&gt;&quot;Please enter”&lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; white-space: nowrap ; background-color: rgb(43 , 43 , 43)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap ; color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; background-color: rgb(43 , 43 , 43)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#a9b7c6&quot; face=&quot;Menlo&quot;&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43)&quot;&gt;num&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap ; color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; background-color: rgb(43 , 43 , 43)&quot;&gt;&quot;integers.&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#a9b7c6&quot; face=&quot;Menlo&quot;&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;(where num is number&lt;br&gt;of integer entered (input()) by user&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#B266FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="310" width="200" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-5" target="YAJCDJA3JRHrWHHWti8Y-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-5" value="&lt;span style=&quot;white-space: normal&quot;&gt;Set for-loop&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;counter to num-1&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;This assures num integers&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;are entered&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;fillColor=#66FF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="132.5" y="710" width="195" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-7" target="YAJCDJA3JRHrWHHWti8Y-25">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-7" value="&lt;p style=&quot;line-height: 117%&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 117%&quot;&gt;if integer entered is &lt;br&gt;less than num_min&lt;br&gt;then replaces&lt;br&gt;num_min&lt;br&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#66FF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="940" width="160" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.769;exitY=0.513;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.231;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-8" target="YAJCDJA3JRHrWHHWti8Y-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="490" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-8" target="YAJCDJA3JRHrWHHWti8Y-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-8" value="&lt;p style=&quot;line-height: 177%&quot;&gt;Declare num_min&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;fillColor=#FFFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="451" width="130" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-13" target="YAJCDJA3JRHrWHHWti8Y-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-13" value="&lt;p style=&quot;line-height: 297%&quot;&gt;Declare num_max&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;fillColor=#FFFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="452" width="130" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-14" target="YAJCDJA3JRHrWHHWti8Y-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-14" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Ask user to&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap ; font-family: &amp;#34;menlo&amp;#34; ; color: rgb(204 , 120 , 50)&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap ; color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; background-color: rgb(43 , 43 , 43)&quot;&gt;&quot;Please enter”&lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; white-space: nowrap ; background-color: rgb(43 , 43 , 43)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap ; color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; background-color: rgb(43 , 43 , 43)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#a9b7c6&quot; face=&quot;Menlo&quot;&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43)&quot;&gt;num&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap ; color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; background-color: rgb(43 , 43 , 43)&quot;&gt;&quot;integers.&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#a9b7c6&quot; face=&quot;Menlo&quot;&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;(where num is number&lt;br&gt;of integer entered (input()) by user&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#B266FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="570" width="200" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-20" target="YAJCDJA3JRHrWHHWti8Y-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-20" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Declare input_nums to track integers&lt;br&gt;&lt;/span&gt;entered (input()) by the user and to&lt;br&gt;assign min and max to num_min&lt;br&gt;and num_max respectively" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#B266FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="820" width="200" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-25" target="YAJCDJA3JRHrWHHWti8Y-28">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-25" value="&lt;p style=&quot;line-height: 117%&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 117%&quot;&gt;if integer entered is &lt;br&gt;more than num_max&lt;br&gt;then replaces&lt;br&gt;num_max&lt;br&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#66FF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="1080" width="160" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-28" target="YAJCDJA3JRHrWHHWti8Y-29">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-28" value="print(“min:”, num_min)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="1230" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-29" target="zFGTWXLyDL38vy-QKdds-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="YAJCDJA3JRHrWHHWti8Y-29" value="print(“max:”, num_max)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="1320" width="100" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
