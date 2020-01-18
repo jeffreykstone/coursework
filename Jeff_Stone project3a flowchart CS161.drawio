@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-18T00:39:04.396Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="AZQ_W9eVSFJ1IcDa-swR" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-18T00:43:13.980Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="R_r3nv5X1JP25rFLK88w" version="12.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="549" dy="1806" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1894" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -8,41 +8,41 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="zFGTWXLyDL38vy-QKdds-0" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FFE6CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="326" y="-1058" width="160" height="65" as="geometry"/>
+          <mxGeometry x="336" y="-1125" width="160" height="65" as="geometry"/>
         </mxCell>
         <mxCell id="zFGTWXLyDL38vy-QKdds-2" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFE6CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="339.5" y="340" width="132" height="60" as="geometry"/>
+          <mxGeometry x="349.5" y="273" width="132" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-7" target="YAJCDJA3JRHrWHHWti8Y-25">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-7" value="&lt;p style=&quot;line-height: 117%&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 117%&quot;&gt;if integer entered is &lt;br&gt;less than num_min&lt;br&gt;then replaces&lt;br&gt;num_min&lt;br&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#66FF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325.5" y="-190" width="160" height="120" as="geometry"/>
+          <mxGeometry x="335.5" y="-257" width="160" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-25" target="YAJCDJA3JRHrWHHWti8Y-60">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-25" value="&lt;p style=&quot;line-height: 117%&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 117%&quot;&gt;if integer entered is &lt;br&gt;more than num_max&lt;br&gt;then replaces&lt;br&gt;num_max&lt;br&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#66FF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325.5" y="-52" width="160" height="120" as="geometry"/>
+          <mxGeometry x="335.5" y="-119" width="160" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-38" value="" style="shape=filledEdge;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="60" height="40" relative="1" as="geometry">
-            <mxPoint x="239.5" y="3" as="sourcePoint"/>
-            <mxPoint x="570.5" y="-440" as="targetPoint"/>
+            <mxPoint x="249.5" y="-64" as="sourcePoint"/>
+            <mxPoint x="580.5" y="-507" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="234.5" y="3"/>
-              <mxPoint x="234.5" y="80"/>
-              <mxPoint x="570.5" y="80"/>
+              <mxPoint x="244.5" y="-64"/>
+              <mxPoint x="244.5" y="13"/>
+              <mxPoint x="580.5" y="13"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-40" value="" style="shape=filledEdge;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="60" height="40" relative="1" as="geometry">
-            <mxPoint x="570.5" y="-394" as="sourcePoint"/>
-            <mxPoint x="235.5" y="63" as="targetPoint"/>
+            <mxPoint x="580.5" y="-461" as="sourcePoint"/>
+            <mxPoint x="245.5" y="-4" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="570.5" y="-464"/>
-              <mxPoint x="235.5" y="-464"/>
+              <mxPoint x="580.5" y="-531"/>
+              <mxPoint x="245.5" y="-531"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -50,49 +50,49 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-41" value="&lt;span style=&quot;white-space: normal&quot;&gt;&amp;nbsp;print&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#6a8759&quot; face=&quot;Menlo&quot; style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43)&quot;&gt;&quot;How many integers&lt;br&gt;&amp;nbsp;would you like to enter?&quot;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;white-space: normal&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;Declare num as the variable&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: normal&quot;&gt;initialized by &lt;br&gt;the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: normal&quot;&gt;integer (input())&amp;nbsp;by user&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#FFFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="248.5" y="-966" width="315" height="98" as="geometry"/>
+          <mxGeometry x="258.5" y="-1033" width="315" height="98" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-46" target="YAJCDJA3JRHrWHHWti8Y-48">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-46" value="&lt;span style=&quot;font-size: 9pt ; white-space: nowrap ; font-family: &amp;#34;menlo&amp;#34;&quot;&gt;&lt;font color=&quot;#33001a&quot;&gt;print&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap ; color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; background-color: rgb(43 , 43 , 43)&quot;&gt;&quot;Please enter”&lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; white-space: nowrap ; background-color: rgb(43 , 43 , 43)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap ; color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; background-color: rgb(43 , 43 , 43)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#a9b7c6&quot; face=&quot;Menlo&quot;&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43)&quot;&gt;num&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap ; color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; background-color: rgb(43 , 43 , 43)&quot;&gt;&quot;integers.&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#a9b7c6&quot; face=&quot;Menlo&quot;&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;(where num is number&lt;br&gt;of integer entered (input()) by user&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#FFFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="248.5" y="-834" width="315" height="91" as="geometry"/>
+          <mxGeometry x="258.5" y="-901" width="315" height="91" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-48" target="YAJCDJA3JRHrWHHWti8Y-50">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-48" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Declare&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&amp;nbsp;num_min and initialize with&lt;br&gt;first entry (input()) from user &lt;br&gt;(will count as first integer (num) entered&lt;br&gt;and thus counter is num-1)&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#FFFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="248.5" y="-714" width="315" height="91" as="geometry"/>
+          <mxGeometry x="258.5" y="-781" width="315" height="91" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-50" target="YAJCDJA3JRHrWHHWti8Y-55">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-50" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Declare&lt;/span&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&amp;nbsp;num_max and initialize with&lt;br&gt;first num_min value&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#FFFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="248.5" y="-592" width="315" height="91" as="geometry"/>
+          <mxGeometry x="258.5" y="-659" width="315" height="91" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-55" target="YAJCDJA3JRHrWHHWti8Y-57">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-55" value="&lt;p style=&quot;line-height: 117%&quot;&gt;Set for loop&amp;nbsp;&lt;br&gt;counter to num-1&lt;br&gt;This assures num integers&lt;br&gt;are entered&lt;br&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#66FF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294.5" y="-451" width="222" height="125" as="geometry"/>
+          <mxGeometry x="304.5" y="-518" width="222" height="125" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-57" target="YAJCDJA3JRHrWHHWti8Y-7">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-57" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Declare input_nums to track integers&lt;br&gt;&lt;/span&gt;entered (input()) by the user and to&lt;br&gt;assign min and max to num_min&lt;br&gt;and num_max respectively&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#FFFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="248" y="-305" width="315" height="91" as="geometry"/>
+          <mxGeometry x="258" y="-372" width="315" height="91" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-60" target="YAJCDJA3JRHrWHHWti8Y-64">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-60" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;print(&lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 9pt ; background-color: rgb(43 , 43 , 43)&quot;&gt;&quot;min:&lt;/span&gt;&lt;font color=&quot;#6a8759&quot; face=&quot;menlo&quot;&gt;&lt;span&gt;”&lt;/span&gt;&lt;/font&gt;&amp;nbsp;num_min)&lt;br&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#FFFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="248" y="98" width="315" height="91" as="geometry"/>
+          <mxGeometry x="258" y="31" width="315" height="91" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YAJCDJA3JRHrWHHWti8Y-64" target="zFGTWXLyDL38vy-QKdds-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="YAJCDJA3JRHrWHHWti8Y-64" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;print(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43)&quot;&gt;&lt;font color=&quot;#6a8759&quot; face=&quot;menlo&quot;&gt;&lt;span&gt;“max&lt;/span&gt;&lt;span style=&quot;font-size: 9pt&quot;&gt;:&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#6a8759&quot; face=&quot;menlo&quot;&gt;&lt;span&gt;”&lt;/span&gt;&lt;/font&gt;&amp;nbsp;num_max)&lt;br&gt;&lt;span style=&quot;font-size: 9pt ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#FFFFCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="248" y="224" width="315" height="91" as="geometry"/>
+          <mxGeometry x="258" y="157" width="315" height="91" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
